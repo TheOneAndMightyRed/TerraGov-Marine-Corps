@@ -5,6 +5,7 @@
 	w_class = WEIGHT_CLASS_NORMAL
 	icon = 'icons/Marine/marine-hmg.dmi'
 	icon_state = "mag"
+	icon_state_mini = "mag_tl102"
 	flags_magazine = NONE
 	caliber = CALIBER_10X30
 	max_rounds = 300

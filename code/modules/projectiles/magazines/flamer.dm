@@ -25,6 +25,7 @@
 	current_rounds = 25
 	max_rounds = 25
 	gun_type = /obj/item/weapon/gun/flamer/mini_flamer
+	icon_state_mini = "tank_orange_mini"
 
 
 
